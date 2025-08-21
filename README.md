@@ -1,4 +1,4 @@
-#PanoTour
+# PanoTour
 PanoTour is a Python-based tool for creating 360-degree panoramic images by merging six cube map photos using OpenCV. The final output is a high-resolution 4K equirectangular panorama image ideal for virtual tours, VR environments, or immersive media.
 
 #Features
